@@ -5,6 +5,6 @@ public class NetAmount implements Interface1, Interface2 {
 		return price;
 	}
 	public int tax(int tax, int price) {
-		return (price*tax)/100+price;
+		return (price*tax)/100-price;
 	}
 }

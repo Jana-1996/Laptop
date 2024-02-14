@@ -2,7 +2,7 @@ package dualInterface;
 
 public class UseDharshan {
 	public static void main(String[] args) {
-		Dharshan d = new Dharshan(26, 2);
+		Dharshan d = new Dharshan(29, 2);
 //		System.out.println(d.qual("B.Sc"));
 //		System.out.println(d.subject("Mathematics"));
 //		System.out.println(d.salary(28000));
